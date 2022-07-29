@@ -64,8 +64,6 @@ table(t.phen$ethnicity.am,t.phen$asthma)
 #                        | *.{PR.MX.AA}.count.v1.rds : subset by population from All
 # tpm.e | *.All.tpm.v1.rds : based on tpmFp after removing pop outliers
 #                  | *.{PR,MX,AA}.tmp.v1.rds : subset by population from All
-# counts.e.qc  | run1.count.geneOutliersN.rds (deprecated) : it was done wrong because filtering should be done on tmp.e (per population), instead it was done on All, move to z.archive
-#              | *.count.geneOutliersN.cor.rds , *.nGene.txt : corrected verion of counts.e.qc
 
 
     e <- v.e[k]
