@@ -1,6 +1,6 @@
 # Gene expression in African Americans and Latinos reveals ancestry-specific patterns of genetic architecture
 
-This repository contains scripts of the publication:
+This repository contains scripts related to the publication:
 Gene expression in African Americans and Latinos reveals ancestry-specific patterns of genetic architecture.
 [Mak et. al (2023) Nat Genet 55(6):952-963](https://www.nature.com/articles/s41588-023-01377-z)
 
